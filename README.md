@@ -26,9 +26,9 @@ Author-Sanya Bansal
   <p>      <b> Javascript</b>: </p>
             <p>Arrays - to represent the 3X3 grid using 2D array.</p>
             <p>Boolean Flags - to find whether a box is occupied or not.</p>     
-            <p>DOM Manipulation -to Display and update the game board and show messages when players make moves or win the game.</p>  
-            <p> Event Listeners - Detect when a player clicks on a box on the game board, trigger actions such as marking the box with the player's symbol and checking for a win and  handling button clicks.</p>  
-            <p>Enable and Disable - It involves controlling whether they can be interacted with by the user.</p>  
+            <p>DOM Manipulation -to display and update the game board and show messages when players make moves or win the game.</p>  
+            <p> Event Listeners - to detect when a player clicks on a box on the game board, trigger actions such as marking the box with the player's symbol and checking for a win and  handling button clicks.</p>  
+            <p>Enable and Disable -to control whether it can be interacted with by the user.</p>  
             
   <p>      <b> Version control systems like Git and GitHub for collaborating and committing modifications.</b></p>
 
