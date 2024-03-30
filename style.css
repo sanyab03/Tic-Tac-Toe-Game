@@ -1,0 +1,165 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  background-color: #172121;
+  text-align: center;
+}
+h1{
+  color: #fff;
+}
+.container{
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+.game{
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+.box{
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(47, 46, 46, 0.4);
+  font-size: 8vmin;
+  background-color: #E5D0CC;
+
+}
+
+#reset-btn{
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #68b1b2;
+  border-radius: 1rem;
+  border: none;
+}
+#new-btn{
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #68b1b2;
+  border-radius: 1rem;
+  border: none;
+
+}
+#msg{
+  color: #ffffc7;
+  font-size: 8vmin;
+}
+.msg-container{
+  height:  100vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4rem;
+}
+.hide{
+  display: none;
+}
+.O{
+  color: rgb(1, 1, 23);
+}
+.X{
+  color: rgb(0, 100, 200);
+}
+
+ */
+/* CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #172121;
+  text-align: center;
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+
+.container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+
+.game {
+  height: 60vmin;
+  width: 60vmin;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5vmin;
+}
+
+.box {
+  height: 18vmin;
+  width: 18vmin;
+  border-radius: 1rem;
+  border: none;
+  box-shadow: 0 0 1rem rgba(47, 46, 46, 0.4);
+  font-size: 8vmin;
+  background-color: #e5d0cc;
+}
+
+#reset-btn {
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #68b1b2;
+  border-radius: 1rem;
+  border: none;
+}
+
+#new-btn {
+  padding: 1rem;
+  font-size: 1.25rem;
+  background-color: #68b1b2;
+  border-radius: 1rem;
+  border: none;
+}
+
+#msg {
+  color: #ffffc7;
+  font-size: 8vmin;
+}
+
+.msg-container {
+  height: 100vmin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4rem;
+}
+
+.hide {
+  display: none;
+}
+
+.O {
+  color: rgb(1, 1, 23);
+}
+
+.X {
+  color: rgb(0, 100, 200);
+}
