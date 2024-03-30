@@ -2,7 +2,7 @@
 <br>
 Author-Sanya Bansal
 <br>
-<h><b>Project Title: TIC TAC TOE GAME</b><h>
+<h1><b>Project Title: TIC TAC TOE GAME</b><h1>
   <h2>Project Description:</h2> 
   <p>       -Tic Tac Toe is a classic and engaging two-player game that is played on a 3X3 grid.</p>
   <p>       -It provides players with the opportunity to alternatively make  moves to create a winning pattern.</p>
